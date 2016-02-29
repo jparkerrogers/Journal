@@ -21,6 +21,7 @@
 		68816AE81BBB5406000569CE /* JournalUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68816AE71BBB5406000569CE /* JournalUITests.swift */; };
 		689B92821BBE472D009F5352 /* Entry.swift in Sources */ = {isa = PBXBuildFile; fileRef = 685E42D51BBD8267003818EB /* Entry.swift */; };
 		68EFCF4B1BCFF624009FA71F /* Entry.swift in Sources */ = {isa = PBXBuildFile; fileRef = 685E42D51BBD8267003818EB /* Entry.swift */; };
+		E6EF51D11C7E300A000D7FD9 /* EntryResultsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6EF51D01C7E300A000D7FD9 /* EntryResultsTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,6 +58,7 @@
 		68816AE31BBB5406000569CE /* JournalUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = JournalUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		68816AE71BBB5406000569CE /* JournalUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JournalUITests.swift; sourceTree = "<group>"; };
 		68816AE91BBB5406000569CE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E6EF51D01C7E300A000D7FD9 /* EntryResultsTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EntryResultsTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +112,7 @@
 				68816AC71BBB5405000569CE /* AppDelegate.swift */,
 				68816ACB1BBB5405000569CE /* Main.storyboard */,
 				685863BC1BCFF89C00CB5302 /* EntryListTableViewController.swift */,
+				E6EF51D01C7E300A000D7FD9 /* EntryResultsTableViewController.swift */,
 				685863BE1BCFF8AB00CB5302 /* EntryDetailViewController.swift */,
 				685E42D51BBD8267003818EB /* Entry.swift */,
 				682940A01BBE42A000359935 /* EntryController.swift */,
@@ -273,6 +276,7 @@
 				685863BD1BCFF89C00CB5302 /* EntryListTableViewController.swift in Sources */,
 				685863BF1BCFF8AB00CB5302 /* EntryDetailViewController.swift in Sources */,
 				68816AC81BBB5405000569CE /* AppDelegate.swift in Sources */,
+				E6EF51D11C7E300A000D7FD9 /* EntryResultsTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
